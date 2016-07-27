@@ -36,7 +36,6 @@ class Index extends controller
 
         if($ret){
             $hx_options = Config::get('hx');
-
             $h = new Easemob($hx_options['hx_options']);
             $h->getToken();
             $rc = $h->createUser($phone,$passwd);
