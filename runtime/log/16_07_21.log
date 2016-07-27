@@ -1,0 +1,363 @@
+[ 2016-07-21T07:19:19+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.444067s] [吞吐率：2.25req/s] [内存消耗：239.56kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 0,
+  'user' => 
+  array (
+    'Mobile' => '13568802228',
+    'Nickname' => 'testnickname',
+    'Email' => '112@163.com',
+    'Name' => '',
+    'Password' => '',
+    'Securecode' => '',
+    'Open_id' => '',
+    'Xy' => '',
+    'City' => '',
+    'Sex' => 0,
+    'QQ' => '',
+    'Deviceinfo' => '',
+    'Age' => 0,
+    'Address' => 'xxxxyyyy',
+    'Profile' => '',
+    'Status' => 0,
+    'Idcard' => '',
+    'Bankname' => 'testbankname',
+    'Bankno' => '11111122222',
+    'Refer' => '',
+    'Lastlogin' => '0001-01-01T00:00:00Z',
+    'Vid' => 0,
+    'User_id' => 103156,
+    'Score' => 3000,
+    'Money' => 0,
+    'Isvip' => 0,
+    'Ismaster' => 0,
+    'Vip' => 0,
+    'Vipname' => '',
+    'Usercardno' => '',
+    'Smallimage' => '',
+    'Mastermargin' => 0,
+    'Freezemoney' => 0,
+    'Enabledaysum' => 0,
+    'Daysummargin' => 0,
+  ),
+)
+
+[ 2016-07-21T07:19:57+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.116011s] [吞吐率：8.62req/s] [内存消耗：233.48kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 0,
+  'user' => 
+  array (
+    'Mobile' => '13568802228',
+    'Nickname' => 'testnickname',
+    'Email' => '112@163.com',
+    'Name' => '',
+    'Password' => '',
+    'Securecode' => '',
+    'Open_id' => '',
+    'Xy' => '',
+    'City' => '',
+    'Sex' => 0,
+    'QQ' => '',
+    'Deviceinfo' => '',
+    'Age' => 0,
+    'Address' => 'xxxxyyyy',
+    'Profile' => '',
+    'Status' => 0,
+    'Idcard' => '',
+    'Bankname' => 'testbankname',
+    'Bankno' => '11111122222',
+    'Refer' => '',
+    'Lastlogin' => '0001-01-01T00:00:00Z',
+    'Vid' => 0,
+    'User_id' => 103156,
+    'Score' => 3000,
+    'Money' => 0,
+    'Isvip' => 0,
+    'Ismaster' => 0,
+    'Vip' => 0,
+    'Vipname' => '',
+    'Usercardno' => '',
+    'Smallimage' => '',
+    'Mastermargin' => 0,
+    'Freezemoney' => 0,
+    'Enabledaysum' => 0,
+    'Daysummargin' => 0,
+  ),
+)
+
+[ 2016-07-21T07:28:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.120768s] [吞吐率：8.28req/s] [内存消耗：227.23kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-21T07:29:11+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.103482s] [吞吐率：9.66req/s] [内存消耗：224.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-21T07:30:15+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.105407s] [吞吐率：9.49req/s] [内存消耗：227.73kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-21T07:32:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.112986s] [吞吐率：8.85req/s] [内存消耗：227.41kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-21T07:33:30+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.101834s] [吞吐率：9.82req/s] [内存消耗：227.63kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] 121.40.53.151:8085/app/vm/query/103156?appkey=RYX3-1234-5678-9123
+[ log ] NULL
+
+[ 2016-07-21T07:58:25+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.104189s] [吞吐率：9.60req/s] [内存消耗：231.24kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 0,
+  'user' => 
+  array (
+    'Mobile' => '13568802228',
+    'Nickname' => 'testnickname',
+    'Email' => '112@163.com',
+    'Name' => '',
+    'Password' => '',
+    'Securecode' => '',
+    'Open_id' => '',
+    'Xy' => '',
+    'City' => '',
+    'Sex' => 0,
+    'QQ' => '',
+    'Deviceinfo' => '',
+    'Age' => 0,
+    'Address' => 'xxxxyyyy',
+    'Profile' => '',
+    'Status' => 0,
+    'Idcard' => '',
+    'Bankname' => 'testbankname',
+    'Bankno' => '11111122222',
+    'Refer' => '',
+    'Lastlogin' => '0001-01-01T00:00:00Z',
+    'Vid' => 0,
+    'User_id' => 103156,
+    'Score' => 3000,
+    'Money' => 0,
+    'Isvip' => 0,
+    'Ismaster' => 0,
+    'Vip' => 0,
+    'Vipname' => '',
+    'Usercardno' => '',
+    'Smallimage' => '',
+    'Mastermargin' => 0,
+    'Freezemoney' => 0,
+    'Enabledaysum' => 0,
+    'Daysummargin' => 0,
+  ),
+)
+
+[ 2016-07-21T07:59:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.097667s] [吞吐率：10.24req/s] [内存消耗：224.68kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] 121.40.53.151:8085/app/vm/query/103156?appkey=RYX3-1234-5678-9123
+[ log ] NULL
+
+[ 2016-07-21T08:00:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/query
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/query [运行时间：0.115768s] [吞吐率：8.64req/s] [内存消耗：227.87kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'query',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===========================
+
+[ log ] 121.40.53.151:8085/app/vm/query/103156?appkey=RYX3-1234-5678-9123
+[ log ] ===========================
+
+[ log ] NULL
+
+[ 2016-07-21T08:02:26+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.103590s] [吞吐率：9.65req/s] [内存消耗：234.22kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 0,
+  'user' => 
+  array (
+    'Mobile' => '13568802228',
+    'Nickname' => 'testnickname',
+    'Email' => '112@163.com',
+    'Name' => '',
+    'Password' => '',
+    'Securecode' => '',
+    'Open_id' => '',
+    'Xy' => '',
+    'City' => '',
+    'Sex' => 0,
+    'QQ' => '',
+    'Deviceinfo' => '',
+    'Age' => 0,
+    'Address' => 'xxxxyyyy',
+    'Profile' => '',
+    'Status' => 0,
+    'Idcard' => '',
+    'Bankname' => 'testbankname',
+    'Bankno' => '11111122222',
+    'Refer' => '',
+    'Lastlogin' => '0001-01-01T00:00:00Z',
+    'Vid' => 0,
+    'User_id' => 103156,
+    'Score' => 3000,
+    'Money' => 0,
+    'Isvip' => 0,
+    'Ismaster' => 0,
+    'Vip' => 0,
+    'Vipname' => '',
+    'Usercardno' => '',
+    'Smallimage' => '',
+    'Mastermargin' => 0,
+    'Freezemoney' => 0,
+    'Enabledaysum' => 0,
+    'Daysummargin' => 0,
+  ),
+)
+

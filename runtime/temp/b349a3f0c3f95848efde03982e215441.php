@@ -1,0 +1,96 @@
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:85:"/home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/user/index.html";i:1467491152;}*/ ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>我的生活</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
+    <link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm-extend.min.css">
+
+  </head>
+  <body>
+       <div class="page-group">
+        <!-- 单个page ,第一个.page默认被展示-->
+        <div class="page">
+            <!-- 标题栏 -->
+           
+
+            <!-- 这里是页面内容区 -->
+            <div class="content">
+                <div class="content-block">
+                    
+
+                     <div class="list-block media-list">
+                    <ul>
+                      <li>
+                        <a href="#" class="item-link item-content">
+                          <div class="item-inner">
+                            <div class="item-title-row">
+                              <div class="item-title"></div>
+                              <div class="item-after" style="padding-top:0.5rem;"><div class="item-media"><img src="http://gqianniu.alicdn.com/bao/uploaded/i4//tfscom/i3/TB10LfcHFXXXXXKXpXXXXXXXXXX_!!0-item_pic.jpg_250x250q60.jpg" style='width: 4rem;'></div>
+                              </div>
+                            </div>
+                            <div class="item-subtitle">张灵灵</div>
+                            <div class="item-text">1990-05-01</div>
+                          </div>
+                        </a>
+                      </li>
+                      </ul>
+                      </div>
+
+                  <div class="content-padded grid-demo" style="padding-left:1rem;">
+                    <div class="row no-gutter">
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                    </div>
+                      <div class="row no-gutter">
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                    </div>
+                      <div class="row no-gutter">
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                      <div class="col-25"><span class="icon icon-app" style="font-size:1.5rem;"></span></div>
+                    </div>
+                </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- 其他的单个page内联页（如果有） -->
+        <div class="page">...</div>
+    </div>
+
+    <!-- popup, panel 等放在这里 -->
+    <div class="panel-overlay"></div>
+    <!-- Left Panel with Reveal effect -->
+    <div class="panel panel-left panel-reveal">
+        <div class="content-block">
+            <p>这是一个侧栏</p>
+            <p></p>
+            <!-- Click on link with "close-panel" class will close panel -->
+            <p><a href="#" class="close-panel">关闭</a></p>
+        </div>
+    </div>
+
+
+    <!-- 默认必须要执行$.init(),实际业务里一般不会在HTML文档里执行，通常是在业务页面代码的最后执行 -->
+
+    <script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
+    <script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
+    <script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm-extend.min.js' charset='utf-8'></script>
+
+  </body>
+</html>

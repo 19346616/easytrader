@@ -1,0 +1,1674 @@
+[ 2016-07-27T07:25:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.194441s] [吞吐率：5.14req/s] [内存消耗：272.66kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [1]Class 'app\mobile\controller\Config' not found[/home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php:18]
+
+[ 2016-07-27T07:28:41+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.009312s] [吞吐率：107.39req/s] [内存消耗：224.69kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-27T07:29:40+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.002261s] [吞吐率：442.30req/s] [内存消耗：225.16kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-27T07:29:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.003774s] [吞吐率：264.98req/s] [内存消耗：221.58kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-27T07:30:39+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.003124s] [吞吐率：320.10req/s] [内存消耗：225.46kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===============
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-27T07:31:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.003619s] [吞吐率：276.32req/s] [内存消耗：225.80kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===============
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-27T07:34:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.003119s] [吞吐率：320.62req/s] [内存消耗：225.41kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===============
+
+[ log ] array (
+  'hx_options' => 
+  array (
+    'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+    'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+    'org_name' => '',
+    'app_name' => '',
+  ),
+)
+[ log ] ===============
+
+
+[ 2016-07-27T07:34:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.003176s] [吞吐率：314.86req/s] [内存消耗：225.40kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===============
+
+[ log ] array (
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+  'org_name' => '',
+  'app_name' => '',
+)
+[ log ] ===============
+
+
+[ 2016-07-27T07:34:25+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.002122s] [吞吐率：471.27req/s] [内存消耗：221.80kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] ===============
+
+[ log ] array (
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+  'org_name' => '',
+  'app_name' => '',
+)
+[ log ] ===============
+
+
+[ 2016-07-27T07:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456 [运行时间：0.108009s] [吞吐率：9.26req/s] [内存消耗：318.87kb] [文件加载：40]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4096]Argument 2 passed to think\db\Connection::getRealSql() must be of the type array, string given, called in /home/yqj/project/easytrader/H5/tp5/thinkphp/library/think/db/Connection.php on line 332 and defined[/home/yqj/project/easytrader/H5/tp5/thinkphp/library/think/db/Connection.php:416]
+
+[ 2016-07-27T07:40:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456 [运行时间：0.044712s] [吞吐率：22.37req/s] [内存消耗：411.34kb] [文件加载：45]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568801111' [ RunTime:0.000454s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'recommend' cannot be null[/home/yqj/project/easytrader/H5/tp5/thinkphp/library/think/db/Connection.php:405]
+
+[ 2016-07-27T07:41:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：15.068607s] [吞吐率：0.07req/s] [内存消耗：396.43kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568801111' [ RunTime:0.000461s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568801111' , 'xxxx' , '13567770000' , '13568801111' , '123456' , '2016-07-27 07:40:47')        [ RunTime:0.055531s ]
+
+[ 2016-07-27T07:41:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568801111/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：13.447729s] [吞吐率：0.07req/s] [内存消耗：317.86kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568801111' [ RunTime:0.000626s ]
+
+[ 2016-07-27T07:42:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568801221/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568801221/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：15.335574s] [吞吐率：0.07req/s] [内存消耗：392.98kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568801221' [ RunTime:0.000558s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568801221' , 'xxxx' , '13567770000' , '13568801221' , '123456' , '2016-07-27 07:41:52')        [ RunTime:0.322991s ]
+
+[ 2016-07-27T07:43:49+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568811221/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568811221/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：15.297860s] [吞吐率：0.07req/s] [内存消耗：392.98kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568811221' [ RunTime:0.000388s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568811221' , 'xxxx' , '13567770000' , '13568811221' , '123456' , '2016-07-27 07:43:34')        [ RunTime:0.288556s ]
+
+[ 2016-07-27T07:45:41+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568811223/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568811223/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：15.049780s] [吞吐率：0.07req/s] [内存消耗：396.45kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568811223' [ RunTime:0.000542s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568811223' , 'xxxx' , '13567770000' , '13568811223' , '123456' , '2016-07-27 07:45:26')        [ RunTime:0.038808s ]
+
+[ 2016-07-27T07:46:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813223/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813223/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：15.060120s] [吞吐率：0.07req/s] [内存消耗：397.05kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813223' [ RunTime:0.000540s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568813223' , 'xxxx' , '13567770000' , '13568813223' , '123456' , '2016-07-27 07:46:36')        [ RunTime:0.047381s ]
+[ log ] false
+[ log ] false
+
+[ 2016-07-27T07:49:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：15.003528s] [吞吐率：0.07req/s] [内存消耗：251.91kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] false
+[ log ] false
+
+[ 2016-07-27T07:49:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：15.007739s] [吞吐率：0.07req/s] [内存消耗：251.89kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] false
+[ log ] false
+
+[ 2016-07-27T07:54:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：15.010045s] [吞吐率：0.07req/s] [内存消耗：252.83kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+
+[ 2016-07-27T07:55:42+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：15.009257s] [吞吐率：0.07req/s] [内存消耗：253.11kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] false
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] false
+
+[ 2016-07-27T08:02:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：5.012852s] [吞吐率：0.20req/s] [内存消耗：292.17kb] [文件加载：37]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ error ] [1]Call to undefined function extend\emchat\tracd()[/home/yqj/project/easytrader/H5/tp5/extend/emchat/Easemob.php:55]
+
+[ 2016-07-27T08:02:50+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：15.014279s] [吞吐率：0.07req/s] [内存消耗：253.60kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] false
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] false
+[ log ] ===========
+
+
+[ 2016-07-27T08:08:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.627692s] [吞吐率：1.59req/s] [内存消耗：252.45kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtNBgbElNLEeai_V-DpMkWtQAAAVdc9JD-mSGn5xTKn0Sm_1KbS5w7Asc4uA8',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtNDUoOFNLEeaiLtPQbwy5ZAAAAVdc9JG9W3rx3yzIDVapT5RYxVBnJcJuXFI',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:09:07+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813236/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813236/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：1.176216s] [吞吐率：0.85req/s] [内存消耗：398.71kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813236' [ RunTime:0.000560s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568813236' , 'xxxx' , '13567770000' , '13568813236' , '123456' , '2016-07-27 08:09:06')        [ RunTime:0.057638s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtQW2L7lNLEea4AaGRffpFWwAAAVdc9OhgS2qco2-a_ioja9LDycNBVjGcYM0',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtQYqyglNLEeaX-KV2CNi2ZwAAAVdc9OkgiRfM2VbKA3dT3nUHFLNdXvF7S10',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtQdHMYlNLEeaKqrPJ4PVEpQAAAVdc9Orx5CdypRAstmL-suyh_U7xAAaMl_0',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:09:13+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.557715s] [吞吐率：1.79req/s] [内存消耗：251.62kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtRSusjlNLEea6m6s4sKpPxAAAAVdc9QDodjlYqnhBDlNJToPJdPcJOJy5Shc',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtRUdyKlNLEeaxUHuVM6nL7gAAAVdc9QGeDJjpoG2QH83c_idY2wq1ZG8a1gU',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:10:00+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.599549s] [吞吐率：1.67req/s] [内存消耗：255.10kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtYY3UplNLEeasev2up7ylwwAAAVdc9brrVJSOHnlgr6y_ilE072tlcxvd-Lw',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtYaq9eFNLEeaIVFsB7LO_pAAAAVdc9bupapb3aoMfO5kDJq4La0IU6IAR3jI',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:10:24+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.557157s] [吞吐率：1.79req/s] [内存消耗：255.12kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtb6hMnFNLEeaww11NIgRlnAAAAVdc9hdZbwDgYBAnpGcTkPPSefw7CPj_1vw',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtb8TViFNLEea2kSFEoSF7swAAAVdc9hgUbz4ML663erD-dLiB3viXBKoAilc',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:11:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813237/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813237/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：1.098225s] [吞吐率：0.91req/s] [内存消耗：398.71kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813237' [ RunTime:0.000709s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568813237' , 'xxxx' , '13567770000' , '13568813237' , '123456' , '2016-07-27 08:11:17')        [ RunTime:0.049111s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtj0skelNLEeabEnXtDfWDTwAAAVdc9uat5qIVepcWmiHhSgqKmNsymJXteEA',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtj2ab7FNLEeaEcXEVXZUxwwAAAVdc9udhTi_O8_IjguHP3L2QFnRorEq7LTc',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtj65T2FNLEea7zw8ZKupGBAAAAVdc9uk3GXtRbJhvpJeg1zs_BbRCfBRWiqQ',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:11:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.625127s] [吞吐率：1.60req/s] [内存消耗：251.62kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtki8ZCFNLEeaya099qC3BAwAAAVdc9vmfoWOI70D9GrrPk_Y2Jzss4Nnz0gE',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtkkqQcFNLEeahQ3Uh5DepHQAAAVdc9vpTK1UMoiKhixTCPbtPYDeCl8DAkZU',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:12:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：1.215359s] [吞吐率：0.82req/s] [内存消耗：301.68kb] [文件加载：37]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtqn23vFNLEeaC5WFcxO0VLgAAAVdc95jrUS-D_z2H8UmgAlDDXFjPI9hfVJo',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtqp4YfFNLEeaxQ11ybVOXTAAAAVdc95m_bHkzf_XNcaLSNidPqvxLj_InRoA',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtqvr-tlNLEea2DasKRkhiqQAAAVdc95wgOy5axVaJeVb5X-xI9n0Pykz_q_4',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ error ] [1]Call to undefined function extend\emchat\mkdirs()[/home/yqj/project/easytrader/H5/tp5/extend/emchat/Easemob.php:150]
+
+[ 2016-07-27T08:13:25+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：0.959931s] [吞吐率：1.04req/s] [内存消耗：310.09kb] [文件加载：37]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt2zXq-lNLEealgHszj8XRVAAAAVdc-Ng1OCtFszyZSJhk8qAfRJluZa6gljs',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt21MyuFNLEea-UsUk6to_cAAAAVdc-Nj1dvLr9iockvj84so_hpQqBQZxGn4',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt240H1lNLEeaV9FmHNDBlXwAAAVdc-NpwrJ76MHDY41Bl0VBZXfgqoI3lutk',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ error ] [2]mkdir(): No such file or directory[/home/yqj/project/easytrader/H5/tp5/extend/emchat/Easemob.php:142]
+[ error ] [1]Call to undefined function extend\emchat\mkdirs()[/home/yqj/project/easytrader/H5/tp5/extend/emchat/Easemob.php:143]
+
+[ 2016-07-27T08:14:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：1.017867s] [吞吐率：0.98req/s] [内存消耗：290.55kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt-qoielNLEeanFXmoG9jzWwAAAVdc-aZYP8AUBTqXfSEbTsiGK40Y8l9Hxio',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt-sbXvFNLEeaEAtW-arz4PwAAAVdc-acU2i5BpQbUPLdFzb8tOFc1THnxiEE',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt-wQIMFNLEea2mAH9HhwT_gAAAVdc-ailSDBrOXUo1OmDPjmr2ac1ezNZjAo',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ error ] [2]mkdir(): No such file or directory[/home/yqj/project/easytrader/H5/tp5/extend/emchat/Easemob.php:142]
+
+[ 2016-07-27T08:16:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813239/name/xxxx/passwd/123456/recommend/13567770000
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813239/name/xxxx/passwd/123456/recommend/13567770000 [运行时间：0.674651s] [吞吐率：1.48req/s] [内存消耗：400.30kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813239' [ RunTime:0.000460s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568813239' , 'xxxx' , '13567770000' , '13568813239' , '123456' , '2016-07-27 08:16:13')        [ RunTime:0.078250s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtQBBUQlNMEeafOOGX-eTxawAAAVdc-20pGd5_OKJ5DxGbmA3ZcLG9vZLUt7c',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtQCy12FNMEeaKsRO-el4JuwAAAVdc-23jRaJuasILsYh2CaOv1EvkNR79fEI',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:16:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/home
+[ log ] 127.0.0.1:8000/index.php/mobile/index/home [运行时间：1.338983s] [吞吐率：0.75req/s] [内存消耗：259.27kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'home',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtUnQ0UFNMEear_dndeq4ICQAAAVdc--WuFxWiImL01hF5wzl3XgvNkAy3cO0',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtUpHWGFNMEeaDKyljZcLaaAAAAVdc--Zw7aRi1U9Qrp9gBzSTv65H10gYHLc',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtUsp9klNMEeaUUeOrlmUbUAAAAVdc--fkm_Z5Gqs8oTC7IIG0aGBbiX5FpEU',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtUwb_EFNMEeatoS04JO5cwQAAAVdc--lwdlQdTVdiLNJmywZZ0nniy5rGtRw',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:18:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813239/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813239/name/xxxx/passwd/123456 [运行时间：0.205273s] [吞吐率：4.87req/s] [内存消耗：322.93kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813239' [ RunTime:0.000695s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMthdII6lNMEeaMogci6m5GBwAAAVdc_TZR92Lypi1roQwfySK3Dyh0_GPu-Yw',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:18:19+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568813235/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568813235/name/xxxx/passwd/123456 [运行时间：0.337311s] [吞吐率：2.96req/s] [内存消耗：394.48kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568813235' [ RunTime:0.000522s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568813235' , 'xxxx' , '' , '13568813235' , '123456' , '2016-07-27 08:18:19')        [ RunTime:0.146132s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMtixuFBlNMEeaGmMv_dzD0PQAAAVdc_Vj38XfPHJCR_7zBzdL3nEAwYlcUD8g',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:20:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/13568843235/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/13568843235/name/xxxx/passwd/123456 [运行时间：0.593466s] [吞吐率：1.69req/s] [内存消耗：399.85kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='13568843235' [ RunTime:0.000404s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('13568843235' , 'xxxx' , '' , '13568843235' , '123456' , '2016-07-27 08:20:46')        [ RunTime:0.032136s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt4nrgRFNMEea3Q41yhZJfigAAAVdc_5WSXo1pyYwEiPopGY-ljyitKADPIi4',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt4pV_HFNMEeackU3U8IY4lgAAAVdc_5ZARbmsUCNgunWcICIDSY_8U9QR130',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+
+[ 2016-07-27T08:21:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/doregister/phone/135768843235/name/xxxx/passwd/123456
+[ log ] 127.0.0.1:8000/index.php/mobile/index/doregister/phone/135768843235/name/xxxx/passwd/123456 [运行时间：0.626335s] [吞吐率：1.60req/s] [内存消耗：399.83kb] [文件加载：39]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'doregister',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] select * from user where userid='135768843235' [ RunTime:0.000550s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `recommend` , `mobile` , `passwd` , `register_date`) VALUES ('135768843235' , 'xxxx' , '' , '135768843235' , '123456' , '2016-07-27 08:21:13')        [ RunTime:0.047639s ]
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt8x7uclNMEeanqw-63uI5VgAAAVddAAKgWeVRikEr870eLG1t4wvrsTVPkk0',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+[ log ] array (
+  'grant_type' => 'client_credentials',
+  'client_id' => 'YXA6T99OwEloEea1w4X1-XXK6Q',
+  'client_secret' => 'YXA60EbJqnSFSjr9WagPOzeqblOLa_s',
+)
+[ log ] ==========
+
+[ log ] array (
+  'access_token' => 'YWMt8zqUzlNMEeaiEYHJ-k_PiwAAAVddAANWoTlgCbfD_nQ_drBCRUvE3lzs1JM',
+  'expires_in' => 5183999,
+  'application' => '4fdf4ec0-4968-11e6-b5c3-85f5f975cae9',
+)
+[ log ] ===========
+
+

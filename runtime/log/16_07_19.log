@@ -1,0 +1,916 @@
+[ 2016-07-19T05:15:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.177330s] [吞吐率：5.64req/s] [内存消耗：231.10kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-19T05:16:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.008400s] [吞吐率：119.05req/s] [内存消耗：225.57kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:17:09+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.003580s] [吞吐率：279.34req/s] [内存消耗：222.66kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:18:32+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.004623s] [吞吐率：216.31req/s] [内存消耗：225.59kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:18:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.002381s] [吞吐率：420.02req/s] [内存消耗：222.66kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:18:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.002814s] [吞吐率：355.36req/s] [内存消耗：223.00kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:19:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.002298s] [吞吐率：435.18req/s] [内存消耗：223.00kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:19:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.003512s] [吞吐率：284.75req/s] [内存消耗：222.17kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-19T05:19:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.003982s] [吞吐率：251.14req/s] [内存消耗：225.56kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:20:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002727s] [吞吐率：366.70req/s] [内存消耗：222.65kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:20:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002245s] [吞吐率：445.44req/s] [内存消耗：222.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:20:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002792s] [吞吐率：358.15req/s] [内存消耗：222.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:21:37+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002917s] [吞吐率：342.81req/s] [内存消耗：225.59kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:21:39+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002474s] [吞吐率：404.19req/s] [内存消耗：222.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:21:40+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002466s] [吞吐率：405.52req/s] [内存消耗：222.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:21:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.002416s] [吞吐率：413.92req/s] [内存消耗：222.65kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] NULL
+
+[ 2016-07-19T05:23:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.128380s] [吞吐率：7.79req/s] [内存消耗：222.95kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:23:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.109000s] [吞吐率：9.17req/s] [内存消耗：222.97kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:23:47+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.117937s] [吞吐率：8.48req/s] [内存消耗：225.91kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:23:49+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.142518s] [吞吐率：7.02req/s] [内存消耗：222.96kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:33:09+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：1.103703s] [吞吐率：0.91req/s] [内存消耗：223.30kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:33:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.105193s] [吞吐率：9.51req/s] [内存消耗：223.30kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T05:33:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.137941s] [吞吐率：7.25req/s] [内存消耗：222.95kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 3,
+)
+
+[ 2016-07-19T07:44:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：1.106860s] [吞吐率：0.90req/s] [内存消耗：222.95kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 3,
+)
+
+[ 2016-07-19T07:44:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.107601s] [吞吐率：9.29req/s] [内存消耗：222.97kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T07:47:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.106667s] [吞吐率：9.37req/s] [内存消耗：223.30kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-19T07:56:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changeuser
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changeuser [运行时间：0.048611s] [吞吐率：20.57req/s] [内存消耗：263.05kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changeuser',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [8]Undefined variable: backname[/home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php:39]
+
+[ 2016-07-19T07:56:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changeuser
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changeuser [运行时间：0.007700s] [吞吐率：129.87req/s] [内存消耗：259.77kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changeuser',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [8]Undefined variable: bankno[/home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php:39]
+
+[ 2016-07-19T07:56:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changeuser
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changeuser [运行时间：0.004323s] [吞吐率：231.32req/s] [内存消耗：257.14kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changeuser',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [8]Undefined variable: bankno[/home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php:39]
+
+[ 2016-07-19T07:56:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changeuser
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changeuser [运行时间：0.122579s] [吞吐率：8.16req/s] [内存消耗：227.65kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changeuser',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'mobile' => '13568802228',
+  'nickname' => 'testnickname',
+  'name' => 'yqj',
+  'addr' => 'xxxxyyyy',
+  'bankname' => 'testbankname',
+  'bankno' => '11111122222',
+  'email' => '112@163.com',
+)
+[ log ] NULL
+
+[ 2016-07-19T07:59:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changeuser
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changeuser [运行时间：0.130709s] [吞吐率：7.65req/s] [内存消耗：227.29kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changeuser',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'mobile' => '13568802228',
+  'nickname' => 'testnickname',
+  'name' => 'yqj',
+  'addr' => 'xxxxyyyy',
+  'bankname' => 'testbankname',
+  'bankno' => '11111122222',
+  'email' => '112@163.com',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:12:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.006191s] [吞吐率：161.52req/s] [内存消耗：260.83kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [8192]Non-static method extend\lib\traderApi::changePassWord() should not be called statically, assuming $this from incompatible context[/home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php:46]
+
+[ 2016-07-19T08:13:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.008001s] [吞吐率：124.98req/s] [内存消耗：260.51kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [8]Undefined variable: mobile[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:40]
+
+[ 2016-07-19T08:13:42+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.115864s] [吞吐率：8.63req/s] [内存消耗：227.28kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '123456',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:13:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.129745s] [吞吐率：7.71req/s] [内存消耗：224.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '123456',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:13:47+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.113161s] [吞吐率：8.84req/s] [内存消耗：224.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '123456',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:13:49+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.132479s] [吞吐率：7.55req/s] [内存消耗：224.73kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '123456',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:14:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.117192s] [吞吐率：8.53req/s] [内存消耗：227.70kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:14:04+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.113213s] [吞吐率：8.83req/s] [内存消耗：224.72kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:14:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.120659s] [吞吐率：8.29req/s] [内存消耗：224.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:14:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.128324s] [吞吐率：7.79req/s] [内存消耗：224.72kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:46:47+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：1.108990s] [吞吐率：0.90req/s] [内存消耗：224.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:46:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.115367s] [吞吐率：8.67req/s] [内存消耗：224.73kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:47:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.111098s] [吞吐率：9.00req/s] [内存消耗：224.73kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+
+[ 2016-07-19T08:48:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.115289s] [吞吐率：8.67req/s] [内存消耗：227.50kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+[ log ] NULL
+[ log ] {"error":0}
+
+[ 2016-07-19T08:48:57+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/changepasswd
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/changepasswd [运行时间：0.119034s] [吞吐率：8.40req/s] [内存消耗：227.53kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'changepasswd',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] array (
+  'password' => '1234563',
+  'newpassword' => '654321',
+)
+

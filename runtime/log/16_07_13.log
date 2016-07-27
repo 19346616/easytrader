@@ -1,0 +1,19 @@
+[ 2016-07-13T06:14:38+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/register
+[ log ] 127.0.0.1:8000/index.php/mobile/index/register [运行时间：0.177859s] [吞吐率：5.62req/s] [内存消耗：231.36kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'register',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/register.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+

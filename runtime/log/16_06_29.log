@@ -1,0 +1,574 @@
+[ 2016-06-29T05:25:32+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.225265s] [吞吐率：4.44req/s] [内存消耗：201.12kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:31:48+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.006265s] [吞吐率：159.62req/s] [内存消耗：193.58kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:32:15+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.002413s] [吞吐率：414.46req/s] [内存消耗：193.58kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:32:35+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.002377s] [吞吐率：420.69req/s] [内存消耗：197.02kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:32:38+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.002160s] [吞吐率：463.00req/s] [内存消耗：193.59kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:32:38+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.001586s] [吞吐率：630.53req/s] [内存消耗：193.59kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:33:12+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.033165s] [吞吐率：30.15req/s] [内存消耗：243.99kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:33:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index.php
+[ log ] 127.0.0.1:8000/index.php/mobile/index.php [运行时间：0.128204s] [吞吐率：7.80req/s] [内存消耗：189.64kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index.php',
+    2 => NULL,
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\mobile\controller\index\Php[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:41:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1:8000/index.php [运行时间：0.001879s] [吞吐率：532.20req/s] [内存消耗：196.01kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:41:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1:8000/index.php [运行时间：0.002142s] [吞吐率：466.81req/s] [内存消耗：193.59kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:41:47+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1:8000/index.php [运行时间：0.001445s] [吞吐率：692.13req/s] [内存消耗：193.59kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:48:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php??s=/index/Index/index
+[ log ] 127.0.0.1:8000/index.php??s=/index/Index/index [运行时间：0.002671s] [吞吐率：374.39req/s] [内存消耗：197.98kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:48:39+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php??s=/index/mobile/index
+[ log ] 127.0.0.1:8000/index.php??s=/index/mobile/index [运行时间：0.002108s] [吞吐率：474.36req/s] [内存消耗：194.52kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-29T05:48:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/index/mobile/index
+[ log ] 127.0.0.1:8000/index.php?s=/index/mobile/index [运行时间：0.003218s] [吞吐率：310.74req/s] [内存消耗：188.98kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mobile',
+    2 => 'index',
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\index\controller\Mobile[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:49:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.003741s] [吞吐率：267.32req/s] [内存消耗：188.38kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\mobile\controller\Index[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:49:25+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.003963s] [吞吐率：252.33req/s] [内存消耗：188.38kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\mobile\controller\Index[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:50:03+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/index/index/test
+[ log ] 127.0.0.1:8000/index.php?s=/index/index/test [运行时间：0.001171s] [吞吐率：853.89req/s] [内存消耗：165.31kb] [文件加载：23]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T05:52:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.002510s] [吞吐率：398.40req/s] [内存消耗：188.38kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\mobile\controller\Index[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:53:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/Index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/Index/index [运行时间：0.005717s] [吞吐率：174.92req/s] [内存消耗：188.38kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'Index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [0]class not exists:app\mobile\controller\Index[/home/yqj/project/tp5/thinkphp/library/think/Loader.php:394]
+
+[ 2016-06-29T05:54:23+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/Index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/Index/index [运行时间：0.001881s] [吞吐率：531.60req/s] [内存消耗：166.93kb] [文件加载：23]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'Index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T05:54:26+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.001164s] [吞吐率：859.14req/s] [内存消耗：164.95kb] [文件加载：23]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T05:54:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.048325s] [吞吐率：20.69req/s] [内存消耗：203.20kb] [文件加载：29]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ error ] [8]Undefined variable: view[/home/yqj/project/tp5/application/mobile/controller/Index.php:9]
+
+[ 2016-06-29T05:55:21+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.003194s] [吞吐率：313.08req/s] [内存消耗：247.56kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T05:55:27+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.003746s] [吞吐率：266.95req/s] [内存消耗：199.13kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T05:56:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.002852s] [吞吐率：350.64req/s] [内存消耗：249.27kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T06:03:44+08:00 ] 192.168.3.7 192.168.3.6 GET /index.php?s=/mobile/index/index
+[ log ] 192.168.3.7:8000/index.php?s=/mobile/index/index [运行时间：0.003174s] [吞吐率：315.05req/s] [内存消耗：199.49kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T06:04:23+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.002009s] [吞吐率：497.78req/s] [内存消耗：197.19kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T06:21:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.001837s] [吞吐率：544.36req/s] [内存消耗：201.69kb] [文件加载：28]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+
+[ 2016-06-29T07:03:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?s=/mobile/index/index
+[ log ] 127.0.0.1:8000/index.php?s=/mobile/index/index [运行时间：0.001986s] [吞吐率：503.58req/s] [内存消耗：252.28kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+

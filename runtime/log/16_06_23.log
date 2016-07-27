@@ -1,0 +1,83 @@
+[ 2016-06-23T06:27:20+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.162945s] [吞吐率：6.14req/s] [内存消耗：209.47kb] [文件加载：29]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+[ error ] [1]Class 'app\index\controller\View' not found[/home/yqj/project/tp5/application/index/controller/Index.php:10]
+
+[ 2016-06-23T06:29:46+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.057360s] [吞吐率：17.43req/s] [内存消耗：223.09kb] [文件加载：32]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+[ error ] [0]template not exists:/home/yqj/project/tp5/public/../application/index/view/index/index.html[/home/yqj/project/tp5/thinkphp/library/think/view/driver/Think.php:76]
+
+[ 2016-06-23T06:31:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.047399s] [吞吐率：21.10req/s] [内存消耗：243.44kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+
+[ 2016-06-23T06:32:20+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1:8000/ [运行时间：0.004823s] [吞吐率：207.34req/s] [内存消耗：243.05kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/tp5/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/tp5/public/../application/index/view/index/index.html [ array (
+  0 => 'name',
+  1 => 'data',
+  2 => 'email',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/tp5/public/../runtime/log/',
+)
+[ log ] sdfsdfsdf
+

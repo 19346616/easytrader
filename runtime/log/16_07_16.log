@@ -1,0 +1,1645 @@
+[ 2016-07-16T18:46:12+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/mlogin
+[ log ] 127.0.0.1:8000/index.php/mobile/index/mlogin [运行时间：0.170950s] [吞吐率：5.85req/s] [内存消耗：291.27kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'mlogin',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/mlogin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-16T18:46:59+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.055426s] [吞吐率：18.04req/s] [内存消耗：273.16kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4]syntax error, unexpected 'traderUserExist' (T_STRING), expecting variable (T_VARIABLE)[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:6]
+
+[ 2016-07-16T18:48:04+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.006488s] [吞吐率：154.13req/s] [内存消耗：266.88kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4]syntax error, unexpected ''?appkey='' (T_CONSTANT_ENCAPSED_STRING)[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:9]
+
+[ 2016-07-16T18:48:24+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.302300s] [吞吐率：3.31req/s] [内存消耗：223.33kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-16T18:50:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.124303s] [吞吐率：8.04req/s] [内存消耗：223.94kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:49:54 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T18:51:15+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105623s] [吞吐率：9.47req/s] [内存消耗：221.39kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:51:08 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T18:52:09+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105575s] [吞吐率：9.47req/s] [内存消耗：224.46kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] dsfsdfsdfdsfs
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:52:02 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T18:52:36+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.144185s] [吞吐率：6.94req/s] [内存消耗：221.16kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] dsfsdfsdfdsfs
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:52:29 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T18:53:30+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.108405s] [吞吐率：9.22req/s] [内存消耗：224.09kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:53:23 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] NULL
+
+[ 2016-07-16T18:54:35+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.126308s] [吞吐率：7.92req/s] [内存消耗：224.09kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:54:28 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] NULL
+
+[ 2016-07-16T18:55:39+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.126108s] [吞吐率：7.93req/s] [内存消耗：224.35kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:55:32 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] ===============
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-16T18:55:58+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.113484s] [吞吐率：8.81req/s] [内存消耗：224.85kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:55:51 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 02:55:51 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-16T18:59:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.130532s] [吞吐率：7.66req/s] [内存消耗：257.70kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [2]preg_replace(): Delimiter must not be alphanumeric or backslash[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:28]
+
+[ 2016-07-16T19:00:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.110736s] [吞吐率：9.03req/s] [内存消耗：224.45kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:00:48 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:00:48 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-16T19:02:04+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.106601s] [吞吐率：9.38req/s] [内存消耗：224.48kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:01:57 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:01:57 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-16T19:02:27+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.133134s] [吞吐率：7.51req/s] [内存消耗：224.48kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:02:20 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:02:20 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] NULL
+[ log ] ===============
+
+
+[ 2016-07-16T19:03:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.128664s] [吞吐率：7.77req/s] [内存消耗：225.14kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:13 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:13 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] array (
+  'error' => 4,
+)
+[ log ] ===============
+
+
+[ 2016-07-16T19:03:21+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105413s] [吞吐率：9.49req/s] [内存消耗：222.20kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:14 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:14 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] array (
+  'error' => 4,
+)
+[ log ] ===============
+
+
+[ 2016-07-16T19:03:47+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.124815s] [吞吐率：8.01req/s] [内存消耗：224.78kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:40 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] ===============
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:03:40 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] array (
+  'error' => 4,
+)
+[ log ] ===============
+
+
+[ 2016-07-16T19:04:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.112456s] [吞吐率：8.89req/s] [内存消耗：223.97kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:04:23 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:05:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.120252s] [吞吐率：8.32req/s] [内存消耗：223.97kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:04:59 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:05:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.116327s] [吞吐率：8.60req/s] [内存消耗：224.26kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:05:26 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:05:26 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:06:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.104772s] [吞吐率：9.54req/s] [内存消耗：224.28kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:06:09 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:06:09 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:07:30+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105223s] [吞吐率：9.50req/s] [内存消耗：224.39kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:07:23 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:07:23 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] {"error":4}
+
+[ 2016-07-16T19:10:22+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.005443s] [吞吐率：183.73req/s] [内存消耗：267.38kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4]syntax error, unexpected '='[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:31]
+
+[ 2016-07-16T19:10:42+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.104733s] [吞吐率：9.55req/s] [内存消耗：223.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:10:35 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T19:11:08+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.102158s] [吞吐率：9.79req/s] [内存消耗：224.27kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:11:00 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] TP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:11:00 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:11:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.102107s] [吞吐率：9.79req/s] [内存消耗：224.28kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:11:24 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] TP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:11:24 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:14:38+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.119201s] [吞吐率：8.39req/s] [内存消耗：258.26kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:14:30 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ error ] [8]Undefined variable: strData[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:33]
+
+[ 2016-07-16T19:14:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.106366s] [吞吐率：9.40req/s] [内存消耗：223.96kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:14:41 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+
+[ 2016-07-16T19:17:12+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.103587s] [吞吐率：9.65req/s] [内存消耗：224.27kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:17:05 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:17:05 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:17:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.125438s] [吞吐率：7.97req/s] [内存消耗：224.52kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:17:47 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:17:47 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:18:49+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.114501s] [吞吐率：8.73req/s] [内存消耗：224.81kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:18:42 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:18:42 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:18:42 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:19:34+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.116912s] [吞吐率：8.55req/s] [内存消耗：221.90kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:19:27 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:19:27 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:19:27 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:20:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.125925s] [吞吐率：7.94req/s] [内存消耗：224.80kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:20:25 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:20:25 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:20:25 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:22:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.108228s] [吞吐率：9.24req/s] [内存消耗：224.80kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:13 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:13 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:13 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:22:33+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105663s] [吞吐率：9.46req/s] [内存消耗：224.84kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:25 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:25 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:25 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:22:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.140670s] [吞吐率：7.11req/s] [内存消耗：224.84kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:36 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:36 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] P/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:36 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:23:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.104992s] [吞吐率：9.52req/s] [内存消耗：224.83kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:54 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:54 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] P/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:22:54 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:23:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.106750s] [吞吐率：9.37req/s] [内存消耗：224.81kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:06 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:06 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] 00 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:06 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:23:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.121344s] [吞吐率：8.24req/s] [内存消耗：224.80kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:38 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:38 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:23:38 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:28:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.105324s] [吞吐率：9.49req/s] [内存消耗：224.83kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:28:41 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:28:41 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+[ log ] TTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:28:41 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+[ log ] =====================
+
+
+[ 2016-07-16T19:29:11+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.112607s] [吞吐率：8.88req/s] [内存消耗：224.27kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:29:04 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:29:04 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:32:07+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.106761s] [吞吐率：9.37req/s] [内存消耗：223.98kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] true
+[ log ] 1
+
+[ 2016-07-16T19:32:19+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.123470s] [吞吐率：8.10req/s] [内存消耗：221.05kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] true
+[ log ] 1
+
+[ 2016-07-16T19:32:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.100254s] [吞吐率：9.97req/s] [内存消耗：224.27kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:32:48 GMT
+Content-Length: 16
+
+"{\"error\":4}"
+
+[ log ] HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Jul 2016 03:32:48 GMT
+Content-Length: 16
+
+"{"error":4}"
+
+
+[ 2016-07-16T19:36:04+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.110592s] [吞吐率：9.04req/s] [内存消耗：223.95kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+
+[ 2016-07-16T19:36:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.118512s] [吞吐率：8.44req/s] [内存消耗：223.96kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+
+[ 2016-07-16T19:36:20+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.124115s] [吞吐率：8.06req/s] [内存消耗：221.03kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+
+[ 2016-07-16T19:36:40+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.104422s] [吞吐率：9.58req/s] [内存消耗：224.11kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+[ log ] {"error":4}
+
+[ 2016-07-16T19:37:42+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.003108s] [吞吐率：321.77req/s] [内存消耗：267.36kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4]syntax error, unexpected ';'[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:46]
+
+[ 2016-07-16T19:37:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.132549s] [吞吐率：7.54req/s] [内存消耗：224.42kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+[ log ] array (
+  'error' => 4,
+)
+
+[ 2016-07-16T19:38:23+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userexist
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userexist [运行时间：0.107566s] [吞吐率：9.30req/s] [内存消耗：223.95kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userexist',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+
+[ 2016-07-16T19:54:26+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.003218s] [吞吐率：310.74req/s] [内存消耗：268.80kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [4]syntax error, unexpected ')'[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:72]
+
+[ 2016-07-16T19:54:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.151891s] [吞吐率：6.58req/s] [内存消耗：225.00kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ log ] "{\"error\":4}"
+
+[ log ] "{\"error\":4}"
+
+
+[ 2016-07-16T20:01:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.111895s] [吞吐率：8.94req/s] [内存消耗：224.75kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-16T20:10:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.004718s] [吞吐率：211.95req/s] [内存消耗：259.02kb] [文件加载：36]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ error ] [2]get_browser(): browscap ini directive not set[/home/yqj/project/easytrader/H5/tp5/extend/lib/traderApi.php:19]
+
+[ 2016-07-16T20:12:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/trader/userdetail
+[ log ] 127.0.0.1:8000/index.php/mobile/trader/userdetail [运行时间：0.106011s] [吞吐率：9.43req/s] [内存消耗：224.74kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'trader',
+    2 => 'userdetail',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Trader.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+

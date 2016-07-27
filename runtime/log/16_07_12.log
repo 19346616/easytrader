@@ -1,0 +1,118 @@
+[ 2016-07-12T06:16:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/register
+[ log ] 127.0.0.1:8000/index.php/mobile/index/register [运行时间：0.185166s] [吞吐率：5.40req/s] [内存消耗：278.25kb] [文件加载：32]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'register',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/register.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-12T06:54:51+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/mlogin
+[ log ] 127.0.0.1:8000/index.php/mobile/index/mlogin [运行时间：0.171563s] [吞吐率：5.83req/s] [内存消耗：239.68kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'mlogin',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/mlogin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-12T06:55:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/getcode/phone/13566666666
+[ log ] 127.0.0.1:8000/index.php/mobile/index/getcode/phone/13566666666 [运行时间：0.509213s] [吞吐率：1.96req/s] [内存消耗：371.55kb] [文件加载：38]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'getcode',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ DB ] INIT mysql:array (
+  'type' => 'mysql',
+  'dsn' => 'mysql:host=127.0.0.1;dbname=trader',
+  'hostname' => '127.0.0.1',
+  'database' => 'trader',
+  'username' => 'root',
+  'password' => 'root',
+  'hostport' => '3306',
+  'params' => 
+  array (
+  ),
+  'charset' => 'utf8',
+  'prefix' => '',
+  'debug' => true,
+  'deploy' => 0,
+  'rw_separate' => false,
+  'master_num' => 1,
+  'slave_no' => '',
+  'fields_strict' => true,
+  'auto_timestamp' => false,
+  'resultset_type' => 'array',
+  'sql_explain' => false,
+)
+[ info ] [ DB ] CONNECT: mysql:host=127.0.0.1;dbname=trader
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+[ sql ] [ SQL ] INSERT INTO `user` (`userid` , `name` , `mobile` , `passwd` , `register_date`) VALUES ('13566666666' , '13566666666' , '13566666666' , '752910' , '2016-07-12 06:55:27')       [ RunTime:0.018262s ]
+
+[ 2016-07-12T06:55:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/mlogin
+[ log ] 127.0.0.1:8000/index.php/mobile/index/mlogin [运行时间：0.002496s] [吞吐率：400.64req/s] [内存消耗：221.92kb] [文件加载：30]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'mlogin',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/mlogin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
+[ 2016-07-12T07:00:26+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/mobile/index/register
+[ log ] 127.0.0.1:8000/index.php/mobile/index/register [运行时间：0.030584s] [吞吐率：32.70req/s] [内存消耗：232.90kb] [文件加载：31]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mobile',
+    1 => 'index',
+    2 => 'register',
+  ),
+)
+[ info ] [ RUN ] /home/yqj/project/easytrader/H5/tp5/application/mobile/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /home/yqj/project/easytrader/H5/tp5/public/../application/mobile/view/index/register.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/home/yqj/project/easytrader/H5/tp5/public/../runtime/log/',
+)
+
