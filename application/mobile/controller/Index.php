@@ -30,18 +30,21 @@ class Index extends controller
         $recommend = Request::instance()->param('recommend','');
 
         //$ret = sms::doPostRequest($phone,$code);
-
-        $ret = user::register(array('userid'=>$phone,'name'=>$name,'recommend'=>$recommend,
+	
+     // $ret = user::register(array('userid'=>$phone,'name'=>$name,'recommend'=>$recommend,
+             //   'mobile'=>$phone,'passwd'=>$passwd,'register_date'=>date('Y-m-d H:i:s')));
+	
+        $hx_options = Config::get('hx');
+        $h = new Easemob($hx_options['hx_options']);
+        $h->getToken();
+        $rc = $h->createUser($phone,$passwd);
+        if(isset($rc['error'])) echo  json_encode(array('ret'=>'0','msg'=>'该手机已经注册'));
+        else{
+		$ret = user::register(array('userid'=>$phone,'name'=>$name,'recommend'=>$recommend,
                 'mobile'=>$phone,'passwd'=>$passwd,'register_date'=>date('Y-m-d H:i:s')));
-
-        if($ret){
-            $hx_options = Config::get('hx');
-            $h = new Easemob($hx_options['hx_options']);
-            $h->getToken();
-            $rc = $h->createUser($phone,$passwd);
-            if($rc === false) echo  json_encode(array('ret'=>'0','msg'=>'注册失败'));
-        }
-        else  echo  json_encode(array('ret'=>'0','msg'=>'注册失败'));
+		if($ret)	echo json_encode(array('ret'=>'1','msg'=>'注册成功'));
+		else echo  json_encode(array('ret'=>'0','msg'=>'注册失败'));
+	}
     }
     public function mlogin(){
         $view= new View();
