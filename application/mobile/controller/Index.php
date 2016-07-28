@@ -72,7 +72,7 @@ class Index extends controller
                  echo json_encode(array('ret'=>0,'msg'=>'登录失败'));
              }else{
                  Session::set('user',$user);
-                 echo json_encode(array('ret'=>1,'msg'=>'登录成功','token'=>$token,'hxuser'=>$hxuser));
+                 echo json_encode(array('ret'=>1,'msg'=>'登录成功','token'=>$token,'hxuser'=>$hxuser,'user'=>$user));
              }
          }
     }

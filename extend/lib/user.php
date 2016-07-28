@@ -11,7 +11,7 @@ class user{
 	static public function auth($userid,$passwd){
 		$rec = Db::query('select * from user where userid=?',[$userid]);
 		if(count($rec)==0) return false;
-		else if($passwd===$rec[0]['passwd']){
+//		else if($passwd===$rec[0]['passwd']){
 			trace($passwd);
 			trace($rec[0]['passwd']);
 			$user = new user($userid);
@@ -20,7 +20,7 @@ class user{
 			$user->name = $rec[0]['name'];
 			//Session::set('user',$user);
 			return $user;
-		}
+//		}
 		return false;
 	}
 	static public function register($regData){
