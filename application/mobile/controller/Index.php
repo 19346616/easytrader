@@ -66,13 +66,14 @@ class Index extends controller
          }else{
             $hx_options = Config::get('hx');
             $h = new Easemob($hx_options['hx_options']);
-            $h->getToken();
+            $token = $h->getToken();
             $hxuser = $h->getUser($userid);
-            echo "<pre>";
-            print_r($hxuser);
-            Session::set('user',$user);
-            echo json_encode(array('ret'=>1,'msg'=>'登录成功'));
-            // return $this->redirect('index.php/mobile/user/index', [])
+            if(isset($hxuser['error'])) {
+                 echo json_encode(array('ret'=>0,'msg'=>'登录失败'));
+             }else{
+                 Session::set('user',$user);
+                 echo json_encode(array('ret'=>1,'msg'=>'登录成功','token'=>$token,'hxuser'=>$hxuser));
+             }
          }
     }
 }

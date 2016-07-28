@@ -56,6 +56,7 @@ class Easemob{
 		trace("===========\n");
 		//var_dump($tokenResult['expires_in']);
 		//return $tokenResult;
+		//return $tokenResult['access_token'];
 		return "Authorization:Bearer ".$tokenResult['access_token'];
 
 	}

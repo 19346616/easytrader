@@ -4,9 +4,9 @@ use \think\Session;
 use \think\Db;
 class user{
 	private $userid;
-	private $nickname;
-	private $name;
-	private $mobile;
+	public  $nickname;
+	public $name;
+	public $mobile;
 
 	static public function auth($userid,$passwd){
 		$rec = Db::query('select * from user where userid=?',[$userid]);
@@ -15,8 +15,9 @@ class user{
 			trace($passwd);
 			trace($rec[0]['passwd']);
 			$user = new user($userid);
-			$nickname = $rec[0]['nickname'];
-			$mobile  = $rec[0]['mobile'];
+			$user->nickname = $rec[0]['nickname'];
+			$user->mobile  = $rec[0]['mobile'];
+			$user->name = $rec[0]['name'];
 			//Session::set('user',$user);
 			return $user;
 		}
