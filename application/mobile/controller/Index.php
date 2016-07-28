@@ -50,9 +50,10 @@ class Index extends controller
         $view= new View();
         return $view->fetch('mlogin');
     }
-      public function register(){
+    public function register(){
             return $this->view->fetch('register');
     }
+   
     public function auth(){
          $userid = Request::instance()->param('userid');
          $passwd = Request::instance()->param('passwd');

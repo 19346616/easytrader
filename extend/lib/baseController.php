@@ -6,12 +6,13 @@ use think\Session;
 class baseController extends Controller
 {
 	 protected $view;	 
-	 protected $currentUser;
+	 protected $currentUser=false;
 	 function __construct(){
 	 	$user = Session::get('user');
-	 	if(!$user)	 $this->redirect('mobile/index/mlogin');	
+	 	if(!$user)	{
+	 		echo json_encode(array('rc'=>0,'msg'=>'not login'));
+	 		return;
+	 	}
 	 	else $this->currentUser = $user;
-	 	
-		$this->view= new View();
 	 }
 }
