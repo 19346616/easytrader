@@ -54,12 +54,20 @@ class Index extends controller
          $userid = Request::instance()->param('userid');
          $passwd = Request::instance()->param('passwd');
          $user = user::auth($userid,$passwd);
-         Session::set('user',$user);
+     
+
          if(!$user){
             echo json_encode(array('ret'=>0,'msg'=>'登录失败'));
             return;
              // return $this->redirect('index.php/mobile/index/mlogin',[]);
          }else{
+            $hx_options = Config::get('hx');
+            $h = new Easemob($hx_options['hx_options']);
+            $h->getToken();
+            $hxuser = $h->getUser($userid);
+            echo "<pre>";
+            print_r($hxuser);
+            Session::set('user',$user);
             echo json_encode(array('ret'=>1,'msg'=>'登录成功'));
             // return $this->redirect('index.php/mobile/user/index', [])
          }
